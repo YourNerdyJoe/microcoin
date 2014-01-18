@@ -1,7 +1,9 @@
-microcoin
+microCoin
 =========
 
-pre-compiled microcoin for linux
+pre-compiled microCoin for Linux
+
 built using Debian Wheezy
+
 version 1.1.1.0-gunit-beta
 
